@@ -29,21 +29,21 @@ rule-providers:
     type: http
     format: text
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/ListenV/clash-rules/collection/direct.txt"
+    url: https://cdn.jsdelivr.net/gh/ListenV/clash-rules/collection/direct.txt
     path: ./ruleset/mine-dir.txt
     interval: 86400
   mine-rej:
     type: http
     format: text
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/ListenV/clash-rules/collection/reject.txt"
+    url: https://cdn.jsdelivr.net/gh/ListenV/clash-rules/collection/reject.txt
     path: ./ruleset/mine-rej.txt
     interval: 86400
   mine-pro:
     type: http
     format: text
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/ListenV/clash-rules/collection/proxy.txt"
+    url: https://cdn.jsdelivr.net/gh/ListenV/clash-rules/collection/proxy.txt
     path: ./ruleset/mine-pro.txt
     interval: 86400
 
