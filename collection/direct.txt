@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,vsean.net
 # GitHub CDN
 DOMAIN-SUFFIX,jsdelivr.net
 
+# 图片站
+DOMAIN-SUFFIX,unsplash.com
+
 # 国内 CDN
 DOMAIN-SUFFIX,cjjd19.com
 # NTP Pool Project

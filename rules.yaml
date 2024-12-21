@@ -105,7 +105,7 @@ rule-providers:
     format: text
     behavior: classical
     #url: https://fastly.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyLite.list
-    url: https://ghproxy.com/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/ProxyLite.list
+    url: https://ghgo.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/ProxyLite.list
     path: ./ruleset/ProxyLite.txt
     interval: 86400
   
