@@ -1,6 +1,7 @@
 # 代理相关
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,sagernet.org
+DOMAIN-SUFFIX,hysteria.network
 
 # GooglePlay 相关
 DOMAIN-SUFFIX,services.googleapis.cn
