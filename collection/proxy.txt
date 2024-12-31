@@ -18,3 +18,10 @@ DOMAIN-SUFFIX,teacat.cloud
 DOMAIN-SUFFIX,teacat2.com
 DOMAIN-SUFFIX,teacat3.com
 DOMAIN-SUFFIX,teacat4.com
+
+# DNS 测试
+DOMAIN-SUFFIX,browserscan.net
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
