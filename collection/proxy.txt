@@ -25,3 +25,6 @@ DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
+
+# 开发
+DOMAIN-SUFFIX,vercel.app
