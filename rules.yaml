@@ -65,7 +65,7 @@ rule-providers:
     type: http
     behavior: classical
     #url: https://fastly.jsdelivr.net/gh/blackmatrix7/ios_rule_script/rule/Clash/Github/Github.yaml
-    url: https://ghgo.xyz/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub_No_Resolve.yaml
+    url: https://ghfast.top/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub_No_Resolve.yaml
     path: ./ruleset/Github.yaml
     interval: 86400
 
@@ -104,6 +104,6 @@ rule-providers:
     type: http
     format: text
     behavior: classical
-    url: https://ghgo.xyz/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/ProxyLite.list
+    url: https://ghfast.top/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/ProxyLite.list
     path: ./ruleset/ProxyLite.txt
     interval: 86400
