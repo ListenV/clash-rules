@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,pool.ntp.org
 # DDNS
 DOMAIN-KEYWORD,quickconnect
 
-# PT 下载相关
+# PT 下载相关（存疑）
 DOMAIN-KEYWORD,tracker
 
 # 暴雪战网国服相关

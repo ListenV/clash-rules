@@ -47,6 +47,13 @@ rule-providers:
     path: ./ruleset/mine-pro.txt
     interval: 86400
 
+  jetbrains:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/blackmatrix7/ios_rule_script/rule/Clash/Jetbrains/Jetbrains_No_Resolve.yaml
+    path: ./ruleset/Jetbrains.yml
+    interval: 86400
+
   telegram:
     type: http
     behavior: classical
