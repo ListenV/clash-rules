@@ -32,3 +32,6 @@ DOMAIN,developer.chrome.com
 
 # AI
 DOMAIN,huggingface.co
+
+# 博客/文档
+DOAMIN,bulianglin.com

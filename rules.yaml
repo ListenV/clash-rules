@@ -6,9 +6,10 @@ rules:
   - RULE-SET,mine-dir,DIRECT
   - RULE-SET,mine-rej,REJECT
   - RULE-SET,mine-pro,PROXY
-  - RULE-SET,telegram,PROXY
+  - RULE-SET,Jetbrains,Jetbrains
+  - RULE-SET,Telegram,PROXY
   - RULE-SET,bing,DIRECT
-  - RULE-SET,github,PROXY
+  - RULE-SET,Github,PROXY
   - RULE-SET,Steam,PROXY
   - RULE-SET,SteamCN,DIRECT
   - RULE-SET,Epic,PROXY
@@ -47,14 +48,14 @@ rule-providers:
     path: ./ruleset/mine-pro.txt
     interval: 86400
 
-  jetbrains:
+  Jetbrains:
     type: http
     behavior: classical
     url: https://fastly.jsdelivr.net/gh/blackmatrix7/ios_rule_script/rule/Clash/Jetbrains/Jetbrains_No_Resolve.yaml
     path: ./ruleset/Jetbrains.yml
     interval: 86400
 
-  telegram:
+  Telegram:
     type: http
     behavior: classical
     url: https://fastly.jsdelivr.net/gh/blackmatrix7/ios_rule_script/rule/Clash/Telegram/Telegram_No_Resolve.yaml
@@ -68,7 +69,7 @@ rule-providers:
     path: ./ruleset/Bing.yaml
     interval: 86400
 
-  github:
+  Github:
     type: http
     behavior: classical
     #url: https://fastly.jsdelivr.net/gh/blackmatrix7/ios_rule_script/rule/Clash/Github/Github.yaml
@@ -106,7 +107,6 @@ rule-providers:
     url: https://fastly.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Game/GameDownload/GameDownloadCN.yaml
     path: ./ruleset/GameDownloadCN.yaml
     interval: 86400
-
   ProxyLite:
     type: http
     format: text
