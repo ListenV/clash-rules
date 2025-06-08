@@ -36,3 +36,6 @@ DOMAIN,huggingface.co
 # 博客/文档
 DOAMIN,bulianglin.com
 DOAMIN,reka-ui.com
+
+# 追番
+DOAMIN,mikanani.me
