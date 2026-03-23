@@ -16,8 +16,6 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 
-DOMAIN-SUFFIX,workers.dev
-
 # DNS 测试
 DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,ipleak.net
@@ -35,6 +33,7 @@ DOMAIN-SUFFIX,teacat4.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,netlify.app
 DOMAIN,developer.chrome.com
+DOMAIN-SUFFIX,workers.dev
 
 DOMAIN-SUFFIX,upwork.com
 
